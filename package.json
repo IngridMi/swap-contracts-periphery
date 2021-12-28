@@ -19,7 +19,7 @@
     "@uniswap/lib": "1.1.1",
     "dotenv": "8.2.0",
     "truffle": "5.1.42",
-    "web3": "1.2.11"
+    "web3": "1.6.1"
   },
   "devDependencies": {
     "@types/chai": "4.2.6",
