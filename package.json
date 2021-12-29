@@ -15,7 +15,7 @@
     "contracts"
   ],
   "dependencies": {
-    "@truffle/hdwallet-provider": "1.0.43",
+    "@truffle/hdwallet-provider": "1.7.0",
     "@uniswap/lib": "1.1.1",
     "dotenv": "8.2.0",
     "truffle": "5.1.42",
