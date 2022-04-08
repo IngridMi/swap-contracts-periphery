@@ -18,7 +18,7 @@
     "@truffle/hdwallet-provider": "1.0.43",
     "@uniswap/lib": "1.1.1",
     "dotenv": "8.2.0",
-    "truffle": "5.1.42",
+    "truffle": "5.5.8",
     "web3": "1.2.11"
   },
   "devDependencies": {
